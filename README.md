@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Akshit Tanwar 👋
 
-<!--
-**akshittanwar981-arch/akshittanwar981-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at K.R. Mangalam University
 
-Here are some ideas to get you started:
+## About Me
+- Learning Python, HTML and CSS
+- Interested in Web Development
+- Exploring Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- VS Code
+
+## Projects
+- Personal Portfolio Website
+
+## Connect With Me
+- GitHub: https://github.com/akshittanwar981-arch
+
